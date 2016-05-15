@@ -1,0 +1,5 @@
+com\webservice\structure\LoopInParentIDsException.class
+com\webservice\structure\TransactionNotFoundException.class
+com\webservice\TransactionDemoApplication.class
+com\webservice\structure\TransactionService.class
+com\webservice\structure\Transaction.class
